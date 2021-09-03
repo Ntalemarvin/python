@@ -1,3 +1,4 @@
+#used to print a block of code multiple times
 i = 1
 while i <= 5:
     print(i)
